@@ -1,0 +1,17 @@
+@import url(../design/principal.css);
+:root{
+    --roxo: hsl(228, 45%, 44%);
+    --laranja: #E28525;
+    --verde-azul: #016972;
+    --verde-escuro: #074544;
+    --branco: #F2F2F2;
+    --font-400: "Lexend Deca";
+    --font-700: "Big Shoulders Display";
+}
+
+body{
+    background-color: var(--branco);
+    font-family: var(--font-400);
+    font-size: 15px;
+    font-weight: 400;
+}
